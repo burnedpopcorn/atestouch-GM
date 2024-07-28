@@ -1,21 +1,26 @@
 # atestouch
 
 # Overview
-A fully documented, blazingly fast, easy to use and work in progress touch controls library for all GameMaker games!
+This is a Fork of atestouch by @AtesQuik
+And it is fully documented, blazingly fast, easy to use and work in progress touch controls library for all GameMaker games!
 
-# Features (currently)
+> [!NOTE]
+> This is a Fork of atestouch V1, so this will not have the functionality of later versions that may or may not be made
+>
+> also this repo was made for archival purposes, so updates are probably not gonna happen
+
+# Current Functionality of V1
+- V1: Function to create touch elements, editing mode to modify the buttons, saving and loading
 - Very easily integrable, just by applying the .yymps to your GameMaker project.
 - Customization, thanks to the included edit mode.
 - Very fast, it works as well as virtual keys although it doesn't use them.
 
-# Plans (for future releases)
-- ~~V1: Function to create touch elements, editing mode to modify the buttons, saving and loading.~~ (DONE)
-- V2: [UMT](https://github.com/UnderminersTeam/UndertaleModTool) script for atestouch, better edit mode, dynamic D-PAD creation, customization menu. (WIP)
-- V3: New touch mode from [Bad Time Simulator](https://jcw87.github.io/c2-sans-fight/) mobile version, custom sprite loading. (PLANNED)
-- V4: Custom mobile keyboard, preset saving/loading. (PLANNED)
-
 # Documentation
 - You can refer to the [wiki](https://github.com/AtesQuik/atestouch/wiki) once its done.
+
+# Thanks to
+- @AtesQuik, for atestouch (duh)
+- her sister, for the sprites :)
 
 # LICENSE
 - atestouch is licensed under the MIT License. See the LICENSE file for more information.
